@@ -4,7 +4,6 @@
 
 <p align="center">
   <samp>
-    <a href="https://www.linkedin.com/in/egor-frolov-451521218/">linkedin</a> .
     <a href="https://gitlab.com/ca1r0n">gitlab</a> . 
     <a href="https://t.me/ca1r0n">telegram</a>
   </samp>
